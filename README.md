@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/manoshaikh015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manoshaikh015" height="30" width="40" /></a>
-<a href="https://medium.com/manoshaikh015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="manoshaikh015" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/manoshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manoshaikh015" height="30" width="40" /></a>
+<a href="https://medium.com/@manoshaikh077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="manoshaikh015" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
